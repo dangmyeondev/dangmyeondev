@@ -1,16 +1,25 @@
-## Hi there 👋
+# dangmyeondev
 
-<!--
-**dangmyeondev/dangmyeondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧩 About
 
-Here are some ideas to get you started:
+student developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+working mainly with TypeScript and Node.js.
+interested in backend systems and infrastructure.
+
+## 🛠 Stack
+
+- TypeScript
+- JavaScript
+- Node.js
+- Docker
+- Nginx
+- Linux
+
+## 📦 Projects
+
+- mochiLabs — small experiments and side projects
+
+## 📫 Contact
+
+discord: @dangmyeondev
